@@ -14,3 +14,6 @@ public static int mul(int i, int i2){
 }
 public static int sub(int i, int i2){
 	return i-i2;
+}
+System.out.println("End of the Main method");
+}
