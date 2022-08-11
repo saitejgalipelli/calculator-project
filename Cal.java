@@ -1,6 +1,6 @@
 iclass Cal{
 public static void main(String[] args){
-	System.out.println("In main method");
+	System.out.println("in main");
 System.out.println(add(2,3));
 System.out.println(mul(2,3));
 // sub
